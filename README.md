@@ -11,8 +11,6 @@
 - Css
 
 
-## Authors
-
 👤 **Author1**
 
 - GitHub: [@githubhandle](https://github.com/githubhandle)
